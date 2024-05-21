@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kalra-v.github.io/floqer-assignment/static/css/main.540f68a0.css",
-    "main.js": "/kalra-v.github.io/floqer-assignment/static/js/main.81eb3aac.js",
-    "static/js/453.fe0515a0.chunk.js": "/kalra-v.github.io/floqer-assignment/static/js/453.fe0515a0.chunk.js",
-    "index.html": "/kalra-v.github.io/floqer-assignment/index.html",
-    "main.540f68a0.css.map": "/kalra-v.github.io/floqer-assignment/static/css/main.540f68a0.css.map",
-    "main.81eb3aac.js.map": "/kalra-v.github.io/floqer-assignment/static/js/main.81eb3aac.js.map",
-    "453.fe0515a0.chunk.js.map": "/kalra-v.github.io/floqer-assignment/static/js/453.fe0515a0.chunk.js.map"
+    "main.css": "/floqer-assignment/static/css/main.540f68a0.css",
+    "main.js": "/floqer-assignment/static/js/main.c9dd0767.js",
+    "static/js/453.fe0515a0.chunk.js": "/floqer-assignment/static/js/453.fe0515a0.chunk.js",
+    "index.html": "/floqer-assignment/index.html",
+    "main.540f68a0.css.map": "/floqer-assignment/static/css/main.540f68a0.css.map",
+    "main.c9dd0767.js.map": "/floqer-assignment/static/js/main.c9dd0767.js.map",
+    "453.fe0515a0.chunk.js.map": "/floqer-assignment/static/js/453.fe0515a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.540f68a0.css",
-    "static/js/main.81eb3aac.js"
+    "static/js/main.c9dd0767.js"
   ]
 }
