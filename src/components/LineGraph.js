@@ -24,7 +24,7 @@ ChartJS.register(
 
 const LineGraph = ({ data }) => {
   // console.log(data);
-console.log(data)
+  // console.log(data);
   const chartData = {
     labels: [2020, 2021, 2022, 2023, 2024],
     datasets: [
@@ -66,7 +66,11 @@ console.log(data)
     },
   };
 
-  return <Line data={chartData} options={options} />;
+  return (
+    <div className="chart-container">
+      <Line data={chartData} options={options} />
+    </div>
+  );
 };
 
 export default LineGraph;

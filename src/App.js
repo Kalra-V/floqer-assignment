@@ -1,4 +1,3 @@
-import GetData from "./components/GetData.js";
 import React, { useEffect, useState } from "react";
 import Papa from "papaparse";
 import "./App.css";
@@ -23,16 +22,15 @@ function App() {
     fetchData();
   }, []);
 
-  
-  
   // console.log(data)
   // console.log(data[0]);
   // console.log(data[1]);
 
   return (
     <>
-      <div className="App">Hello! This works</div>
-      <MainTable data={data} key={1}/>
+      <div className="App">
+        <MainTable data={data} key={1} />
+      </div>
     </>
   );
 }
