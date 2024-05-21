@@ -6,7 +6,7 @@ import "./App.css";
 import MainTable from "./components/MainTable.js";
 
 function App() {
-  const [data, setData] = useState([0]);
+  const [data, setData] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -21,10 +21,6 @@ function App() {
 
     fetchData();
   }, []);
-
-  // console.log(data)
-  // console.log(data[0]);
-  // console.log(data[1]);
 
   return (
     <>

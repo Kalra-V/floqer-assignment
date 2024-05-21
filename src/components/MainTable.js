@@ -10,7 +10,7 @@ export default function MainTable({ data }) {
   const [showMainTable, setShowMainTable] = useState(true);
   const [selectedYear, setSelectedYear] = useState();
 
-  //PROCESSING CSV DATA INTO DATA FOR ANTD TABLE
+  //PROCESSING CSV DATA INTO DATA FOR THE TABLE
   useEffect(() => {
     // FOR MAIN TABLE
     const processData = (data) => {

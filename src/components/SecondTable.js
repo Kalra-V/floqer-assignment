@@ -1,8 +1,6 @@
 import { Table } from "antd";
 
 export default function SecondTable({ data, selectedYear }) {
-  console.log(data);
-
   const columns = [
     {
       title: "Job Title",

@@ -1,4 +1,3 @@
-// LineChart.js
 import React from "react";
 import { Line } from "react-chartjs-2";
 import {
@@ -23,8 +22,6 @@ ChartJS.register(
 );
 
 const LineGraph = ({ data }) => {
-  // console.log(data);
-  // console.log(data);
   const chartData = {
     labels: [2020, 2021, 2022, 2023, 2024],
     datasets: [
