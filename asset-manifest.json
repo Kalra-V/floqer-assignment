@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/floqer-assignment/static/css/main.540f68a0.css",
-    "main.js": "/floqer-assignment/static/js/main.6818676d.js",
+    "main.css": "/floqer-assignment/static/css/main.2b109530.css",
+    "main.js": "/floqer-assignment/static/js/main.6c70fc36.js",
     "static/js/453.fe0515a0.chunk.js": "/floqer-assignment/static/js/453.fe0515a0.chunk.js",
     "index.html": "/floqer-assignment/index.html",
-    "main.540f68a0.css.map": "/floqer-assignment/static/css/main.540f68a0.css.map",
-    "main.6818676d.js.map": "/floqer-assignment/static/js/main.6818676d.js.map",
+    "main.2b109530.css.map": "/floqer-assignment/static/css/main.2b109530.css.map",
+    "main.6c70fc36.js.map": "/floqer-assignment/static/js/main.6c70fc36.js.map",
     "453.fe0515a0.chunk.js.map": "/floqer-assignment/static/js/453.fe0515a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.540f68a0.css",
-    "static/js/main.6818676d.js"
+    "static/css/main.2b109530.css",
+    "static/js/main.6c70fc36.js"
   ]
 }
