@@ -1,4 +1,19 @@
 .main-table-container {
-    padding: 50px;
-    background-color: snow;
+    display: grid;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.chart-container {
+    width: 100%;
+    height: auto;
+}
+
+.graph-container {
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
